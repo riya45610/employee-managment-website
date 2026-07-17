@@ -1,0 +1,81 @@
+{
+  "employees": [
+    {
+      "id": "2",
+      "name": "simran",
+      "email": "simran@gmail.com",
+      "phone": 5236987410,
+      "gender": "female"
+    },
+    {
+      "name": "Anu",
+      "email": "anushka@gmail.com",
+      "phone": 5236987410,
+      "gender": "female",
+      "id": "4"
+    },
+    {
+      "name": "riya sharma",
+      "email": "riya@gmail.com",
+      "phone": "123456789",
+      "gender": "",
+      "id": "d526"
+    },
+    {
+      "id": "8837",
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "phone": "123456789",
+      "gender": "female"
+    },
+    {
+      "id": "58d6",
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "phone": "123456789",
+      "gender": "female"
+    },
+    {
+      "id": "a2b0",
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "phone": "123456789",
+      "gender": "female"
+    },
+    {
+      "id": "6de7",
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "phone": "123456789",
+      "gender": "female"
+    },
+    {
+      "id": "7693",
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "phone": "123456789",
+      "gender": "female"
+    },
+    {
+      "id": "2bec",
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "phone": "123456789",
+      "gender": "female"
+    },
+    {
+      "id": "e346",
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "phone": "123456789",
+      "gender": "female"
+    },
+    {
+      "id": "faf1",
+      "name": "Savitha",
+      "email": "savitha@gmail.com",
+      "phone": "3213456",
+      "gender": "female"
+    }
+  ]
+}
